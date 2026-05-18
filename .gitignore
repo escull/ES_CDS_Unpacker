@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+#vscode
+.vscode/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Project Specific (Input logs and generated outputs)
+*.cds
+*.csv
+*.bin
